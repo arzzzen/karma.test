@@ -1,1 +1,3 @@
-console.log('main.js');
+define('main', [], function() {
+  return Math;
+});
